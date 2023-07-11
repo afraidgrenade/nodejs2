@@ -4,7 +4,7 @@
   "description": "Node.js Project",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js"
+    "default": "node src/app.js"
   },
   "author": "",
   "license": "ISC",
